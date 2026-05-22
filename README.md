@@ -34,7 +34,7 @@
     <a href="https://github.com/theajack/disable-devtool/search?l=javascript"><img src="https://img.shields.io/github/languages/top/theajack/disable-devtool.svg" alt="TopLang"></a>
     <!-- <a href="https://www.github.com/theajack/disable-devtool"><img src="https://img.shields.io/librariesio/dependent-repos/npm/disable-devtool.svg" alt="Dependent"></a> -->
     <img src="https://img.shields.io/badge/test-passed-44BB44" alt="test">
-    <img src="https://shiyix.cn/api2/util/badge/stat?c=Visitors-disabledevtool" alt="visitors">
+    <img src="https://shiyix.cn/api2/util/badge/stat?c=Visitors-cnchar" alt="visitors">
 </p>
 
 <h2>🚀 One line of code to disable web developer tools </h2>
